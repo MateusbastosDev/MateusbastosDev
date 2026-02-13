@@ -2,8 +2,6 @@
 
 🚀 **student of systems analysis and development**  
 :brazil: Brasil
-
-**estou cursando analise e desenvolvimento de sistemas**
 ---
 
 ## 🌐 Where to find me
