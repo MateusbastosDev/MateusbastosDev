@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi 👋, I'm Mateus Bastos
 
-<!--
-**MateusbastosDev/MateusbastosDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **student of systems analysis and development**  
+:brazil: 🇧🇷
 
-Here are some ideas to get you started:
+**estou cursando analise e desenvolvimento de sistemas**
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Where to find me
+
+<p align="left">
+  <a href="https://github.com/MateusbastosDev">
+    <img src="https://img.shields.io/badge/GitHub-MateusbastosDev-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://instagram.com/_omateuszz">
+    <img src="https://img.shields.io/badge/Instagram-@_omateuszz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  
+</p>
