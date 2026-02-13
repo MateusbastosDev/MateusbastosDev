@@ -1,7 +1,7 @@
 # Hi 👋, I'm Mateus Bastos
 
 🚀 **student of systems analysis and development**  
-:brazil: 🇧🇷
+:brazil: Brasil
 
 **estou cursando analise e desenvolvimento de sistemas**
 ---
